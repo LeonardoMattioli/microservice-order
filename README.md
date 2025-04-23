@@ -1,5 +1,3 @@
-agora arrumer meu Markdown
-
 # 📦 Projeto de Microsserviço de Pedidos com RabbitMQ
 
 Este projeto é uma simulação simples de arquitetura de microsserviços utilizando **Java 21**, **Spring Boot**, **RabbitMQ** e **PostgreSQL (via Docker)**.
