@@ -44,16 +44,6 @@ Certifique-se de ter uma instância do RabbitMQ rodando.
 - Usuário: guest
 - Senha: guest
 
-## ▶️ Rodar os Microsserviços
-- Serviço de Pedidos
-cd order
-mvn spring-boot:run
-
-## Serviço de Processamento
-cd processamento
-mvn spring-boot:run
-
-
 ## 🔄 Funcionamento
 1. O usuário envia um POST com um pedido (contendo descrição e itens).
 2. O serviço de pedidos:
